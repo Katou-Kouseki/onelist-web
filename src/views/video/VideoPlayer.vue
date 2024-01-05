@@ -214,7 +214,7 @@
                                 <template #trigger>
                                     <img class="play-icon" src="/images/ddplay.svg" alt="">
                                 </template>
-                                IINA
+                                弹弹play
                             </n-tooltip>
                         </a>
                     </li>
