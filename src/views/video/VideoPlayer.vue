@@ -212,7 +212,7 @@
                         <a :href="'ddplay://weblink/?url=' + encodeURI(url)" target="_blank">
                             <n-tooltip trigger="hover">
                                 <template #trigger>
-                                    <img class="play-icon" src="/images/ddplay.webp" alt="">
+                                    <img class="play-icon" src="/images/ddplay.svg" alt="">
                                 </template>
                                 IINA
                             </n-tooltip>
