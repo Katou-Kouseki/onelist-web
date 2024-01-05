@@ -209,7 +209,7 @@
                 </template>
                 <ul class="play-list">
                     <li class="play-item">
-                        <a :href="'ddplay://weblink/?url=' + encodeURI(url)" target="_blank">
+                        <a :href="'ddplay:' + encodeURI(url)" target="_blank">
                             <n-tooltip trigger="hover">
                                 <template #trigger>
                                     <img class="play-icon" src="/images/ddplay.svg" alt="">
